@@ -1,0 +1,9 @@
+/frontend/node_modules
+/backend-api/node_modules
+frontend/node_modules
+backend-api/node_modules
+
+/frontend/.env.local
+/backend-api/.env
+frontend/.env.local
+backend-api/.env
